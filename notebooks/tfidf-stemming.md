@@ -1,4 +1,4 @@
-* Set-up: TFIDF, 1-gram, stemming.  
+* Set-up: TFIDF, 1-gram, stemming, multinomial naive bayes.  
 * Threshold: 0.22  
 * F1 score on the test set: 0.50
 
